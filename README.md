@@ -3,7 +3,7 @@
  
 ## Mathematics Papers
  
-[*An Exploration of the Nonlinear Optimization of Polynomial Functions Through the Use of Differential Calculus* **(2019)**](./Mathematics/An\ Exploration\ of\ the\ Nonlinear\ Optimization\ of\ Polynomial\ Functions\ Through\ the\ Use of\ Differential\ Calculus.pdf)
+[*An Exploration of the Nonlinear Optimization of Polynomial Functions Through the Use of Differential Calculus* **(2019)**](./Mathematics/)
  
  *Forecasting Weekly Weather Conditions Through the use of Markov Chains* **(2019)**
 
